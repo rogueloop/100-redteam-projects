@@ -48,7 +48,7 @@ Level 2 | Essential
 [11] | Simple port scanner
 [12] | Port scanner with OS fingerprint using TTL (Time To Live)
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?)
-[14] | Simple Web Directory brute-forcer (Threaded)
+[14] | Simple Web Directory brute-forcer (Threaded)  [here :globe_with_meridians:](https://github.com/rogueloop/100-redteam-projects/blob/master/web_Directory_bruteforcer.py)
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion)
 [16] | Web Login bruteforce tool
 [17] | FTP Login bruteforce tool
