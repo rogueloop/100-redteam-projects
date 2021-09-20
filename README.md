@@ -126,7 +126,7 @@ Level 4 | Data analysis, payloads and more networking
 [78] | Browser exploitation tool
 [79] | Simple tool for Reverse Engineering
 [80] | Script for OS enumeration (after shell)
-[81] | RSA Payload generator
+[81] | RSA Payload generator [here :globe_with_meridians:](https://github.com/rogueloop/100-redteam-projects/blob/master/rsa_solver.py)
 [82] | Handshake capture
 [83] | Wifi monitor
 [84] | Buffer Overflow exploit
